@@ -16,9 +16,7 @@
 title: Where Food Meets Tech
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The playground where Cynthia writes about what she's learning at school, new things she's reading about food and tech, new restaurants she tried, or just random thoughts she wants to share. 
 twitter_username: cynthiakreng
 github_username: cykreng
 minimal_mistakes_skin: mint
