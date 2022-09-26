@@ -12,7 +12,7 @@ This past Friday was the first day of real classes. For these classes, we have a
 ![image](../../assets/images/team-img.JPG)
 
 
-Before that was spent a lot of time going through interviewing skills, how to look for the next job you want, how to create a list of companies, etc. We also spent a decent amount of time going through communication classes - where we had to either deliver live or record a speech everyday for a total of 8 speeches.
+Before that we spent a lot of time going through interviewing skills, how to look for the next job you want, how to create a list of companies, etc. We also spent a decent amount of time going through communication classes - where we had to either deliver live or record a speech everyday for a total of 8 speeches.
 
 It was eye opening to listen to all the different stories from my peers - some talked about their childhood as a asylum, some suffering diseases, some battling their inner voice, and others urging school to purchase additional coffee machines or build a new gym. There were different types of speeches that required a different structure: a Logos speech where you would use rational reasoning to convince other people, an Ethose speech where the speaker has credibility due to their previous experiences, and Pathos speech where you influence with strong emotions. I got to convince my team about using menstrual cups, practicing gratitude, going to Space Camp, remembering my grandpa, importance of learning a new language at a young age. The worst part was watching recordings of my own delivery, identifying all the sways and tongue clicking I do unconciously. But hey, that's how I'll improve.
 
