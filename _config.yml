@@ -21,6 +21,11 @@ twitter_username: cynthiakreng
 github_username: cykreng
 minimal_mistakes_skin: mint
 search: true
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : cykreng # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
 
 # Build settings
 markdown: kramdown
@@ -99,10 +104,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: 
-        provider: "disqus"
-        disqus:
-          shortname: "cykreng"
+      comments: true
       share: true
       related: true
   # _pages
