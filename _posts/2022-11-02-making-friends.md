@@ -24,6 +24,7 @@ Friends, here we are again with the magic word. As an action item from my previo
  Another highlight of this trip was making a new friend, Salomé, who was a solo traveler. We met on our first day in Bilbao helping her take a picture in front of the puppy and then again the next day when we went on a day trip to Gaztelugatxe and San Sebastian. I wish I was braver, but it was actually Salomé that approached us and started a conversation. We ended up having dinner together on the day of the day trip, and spent the rest of the time in Bilbao together exploring Guggenheim and other parts of Bilbao.
 
 ![Bilbao-4](../../cykreng.github.io/assets/images/bilbao-4.jpg) 
+![Bilbao-5](../../cykreng.github.io/assets/images/bilbao-5.jpg)
 <br/> <br/>
 
 Was a week of little school and much fun :)
