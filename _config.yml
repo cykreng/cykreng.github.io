@@ -75,25 +75,24 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cykreng"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/krengc"
     - label: "Azure Podcast"
       icon: "fas fa-fw fa-link"
       url: "https://azpodcast.com"
+    - label: "TEDx"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/watch?v=EMP2X2R9IRY&t=15s"
+
 
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cynthiakreng"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cykreng"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/krengc"
+    - label: "Producycle"
+      icon: "fas fa-fw fa-link"
+      url: "https://producycle.com"
+
 
 defaults:
   # _posts
