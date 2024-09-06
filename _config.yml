@@ -64,7 +64,7 @@ author:
   name   : "Cynthia"
   avatar : "/assets/images/avatar.jpg"
   bio    : "Traversing the world one scoop of ice cream at a time."
-  location : "Barcelona, Spain"
+  location : "Berkeley, USA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
